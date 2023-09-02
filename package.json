@@ -1,0 +1,14 @@
+{
+  "name": "rt_twitter_bot",
+  "version": "0.0.1",
+  "description": "Twitter bot for RTs",
+  "main": "src/twitterbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Baumont",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
